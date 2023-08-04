@@ -1,0 +1,13 @@
+--HOW to Compile
+In this directory, enter the following command:
+$ make
+It will generate the executable file "topart"
+
+If you wnat to remove it, please enter the following command:
+$ make clean
+
+--How to run
+  In this directory, enter the following command:
+  Usage: ./[exe] ./input/[input.txt] ./output/[output.txt]
+  e.g.
+  ./topart ./input/B1.txt ./output/output1.txt
